@@ -4,6 +4,8 @@ A [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant) simulation writ
 
 The ant follows only the two classic rules. After roughly 10,000 steps of chaos, the *highway* (a 104-step pattern that repeats forever along a diagonal) **emerges on its own**, without any intervention. The app only detects and reports when it happens (around step 9,984).
 
+Want to understand how it works, from the math to the shaders? Read [LEARN.md](LEARN.md).
+
 ## Getting started (step by step)
 
 ### 1. Prerequisites
